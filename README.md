@@ -25,3 +25,8 @@ Lesson goals:
 5. Run `git add .` to stage any changes for your next commit.
 6. Run `git commit -m "some message here"` 
 7. Run `git push origin branchNameBlahBlahBlah`
+
+Read this cheat sheet for more information:
+
+- [Cool git cheat sheet from Github] (https://education.github.com/git-cheat-sheet-education.pdf)
+
